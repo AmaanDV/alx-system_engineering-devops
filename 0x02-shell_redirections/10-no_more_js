@@ -1,1 +1,2 @@
-Executable File  0 lines (0 sloc)  0 Bytes
+#!/bin/bash
+find . -name "*.js" -type f -delete
